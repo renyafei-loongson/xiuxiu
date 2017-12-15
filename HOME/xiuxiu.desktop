@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Xiuxiu Application Community
+Comment[zh_CN]=秀秀P图
+Exec=/opt/xiuxiu/find-chrome.sh -app=https://www.fotojet.com/cn/
+Name=Application Community
+Name[zh_CN]=秀秀P图
+Type=Application
+Icon=/opt/xiuxiu/Pitu.png
+
